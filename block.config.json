@@ -13,5 +13,8 @@
     "1.0.0"
   ],
   "repoType": "mono",
-  "language": "python"
+  "language": "python",
+  "dependencies": {},
+  "version": "0.0.1",
+  "versionId": "Xlqz9pOeohLYmzZt8WPmV"
 }
