@@ -1,0 +1,17 @@
+{
+  "name": "python_calculator",
+  "type": "raw-package",
+  "blockId": "ZfORRh2KoURXRnxxYPo6b",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_python_calculator"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "python"
+}
