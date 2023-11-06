@@ -1,0 +1,17 @@
+{
+  "name": "python_calculator",
+  "type": "raw-package",
+  "blockId": "ZfORRh2KoURXRnxxYPo6b",
+  "source": {
+    "https": "https://github.com/uttahb/python_calculator.git",
+    "ssh": "git@github.com:uttahb/python_calculator.git",
+    "branch": "block_python_calculator"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "python"
+}
